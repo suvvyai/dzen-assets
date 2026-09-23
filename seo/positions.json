@@ -5,183 +5,535 @@
  "rows": [
   {
    "query": "чат бот для бизнеса",
-   "position": 14,
-   "prev": null,
+   "position": 13,
+   "bucket": "work",
+   "prev": 14,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "чат боты для бизнеса",
-   "position": 25,
-   "prev": null,
+   "position": 23,
+   "bucket": "work",
+   "prev": 25,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "чат бот для продаж",
-   "position": 1,
-   "prev": null,
+   "position": 5,
+   "bucket": "work",
+   "prev": 1,
    "url": "https://suvvy.ai/chat-bot-prodazh"
   },
   {
    "query": "чат бот авито",
-   "position": 24,
-   "prev": null,
+   "position": 25,
+   "bucket": "work",
+   "prev": 24,
    "url": "https://suvvy.ai/chat-bot-avito"
   },
   {
    "query": "чат бот для авито",
-   "position": 18,
-   "prev": null,
+   "position": 20,
+   "bucket": "work",
+   "prev": 18,
    "url": "https://suvvy.ai/chat-bot-avito"
   },
   {
    "query": "боты авито",
-   "position": 9,
-   "prev": null,
+   "position": 8,
+   "bucket": "work",
+   "prev": 9,
    "url": "https://suvvy.ai/chat-bot-avito"
   },
   {
    "query": "авито бот",
-   "position": 8,
-   "prev": null,
+   "position": 10,
+   "bucket": "work",
+   "prev": 8,
    "url": "https://suvvy.ai/chat-bot-avito"
   },
   {
    "query": "купить чат бот",
    "position": 10,
-   "prev": null,
+   "bucket": "work",
+   "prev": 10,
    "url": "https://www.suvvy.ai/"
   },
   {
    "query": "купить ии чат бот",
-   "position": 6,
-   "prev": null,
+   "position": 4,
+   "bucket": "work",
+   "prev": 6,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "купить ии бота",
-   "position": 9,
-   "prev": null,
+   "position": 4,
+   "bucket": "work",
+   "prev": 9,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "заказать разработку чат бота",
    "position": 29,
-   "prev": null,
+   "bucket": "work",
+   "prev": 29,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "разработка чат ботов для бизнеса",
-   "position": 8,
-   "prev": null,
+   "position": 3,
+   "bucket": "work",
+   "prev": 8,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "ии чат бот",
-   "position": 39,
-   "prev": null,
+   "position": 32,
+   "bucket": "work",
+   "prev": 39,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "чат боты ии",
-   "position": 27,
-   "prev": null,
+   "position": 30,
+   "bucket": "work",
+   "prev": 27,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "чат аи бот",
-   "position": 19,
-   "prev": null,
+   "position": 21,
+   "bucket": "work",
+   "prev": 19,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "аи боты",
-   "position": 24,
-   "prev": null,
+   "position": 8,
+   "bucket": "work",
+   "prev": 24,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "ии боты",
-   "position": 9,
-   "prev": null,
+   "position": 21,
+   "bucket": "work",
+   "prev": 9,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "ии продавец",
-   "position": 12,
-   "prev": null,
+   "position": 11,
+   "bucket": "work",
+   "prev": 12,
    "url": "https://suvvy.ai/blog/ii-prodavec/"
   },
   {
    "query": "ии продажник",
-   "position": 22,
-   "prev": null,
+   "position": 27,
+   "bucket": "work",
+   "prev": 22,
    "url": "https://suvvy.ai/chat-bot-prodazh"
   },
   {
    "query": "ии чат продавец",
    "position": 2,
-   "prev": null,
+   "bucket": "work",
+   "prev": 2,
    "url": "https://suvvy.ai/chat-bot-prodazh"
   },
   {
    "query": "ии чат для отдела продаж",
-   "position": 3,
-   "prev": null,
+   "position": 2,
+   "bucket": "work",
+   "prev": 3,
    "url": "https://suvvy.ai/chat-bot-prodazh"
   },
   {
    "query": "чат бот с искусственным интеллектом",
-   "position": 14,
-   "prev": null,
+   "position": 20,
+   "bucket": "work",
+   "prev": 14,
    "url": "https://suvvy.ai/"
   },
   {
    "query": "боты для вк",
-   "position": 24,
-   "prev": null,
+   "position": 27,
+   "bucket": "work",
+   "prev": 24,
    "url": "https://suvvy.ai/chat-bot-vk"
   },
   {
    "query": "боты группа вк",
-   "position": 25,
-   "prev": null,
+   "position": 12,
+   "bucket": "work",
+   "prev": 25,
    "url": "https://suvvy.ai/chat-bot-vk"
   },
   {
    "query": "конструктор ботов вк",
    "position": 13,
-   "prev": null,
+   "bucket": "work",
+   "prev": 13,
    "url": "https://suvvy.ai/chat-bot-vk"
   },
   {
    "query": "конструктор чат ботов для вк",
    "position": 8,
-   "prev": null,
+   "bucket": "work",
+   "prev": 8,
    "url": "https://suvvy.ai/chat-bot-vk"
-  },
-  {
-   "query": "чат бот телеграм",
-   "position": null,
-   "prev": null,
-   "url": null
   },
   {
    "query": "чат бот whatsapp",
    "position": 38,
-   "prev": null,
+   "bucket": "work",
+   "prev": 38,
    "url": "https://suvvy.ai/chat-bot-whatsapp"
   },
   {
    "query": "чат бот битрикс24",
    "position": 3,
-   "prev": null,
+   "bucket": "work",
+   "prev": 3,
    "url": "https://suvvy.ai/chat-bot-bitrix"
   },
   {
    "query": "чат бот для поддержки",
-   "position": 11,
-   "prev": null,
+   "position": 5,
+   "bucket": "work",
+   "prev": 11,
    "url": "https://suvvy.ai/chat-bot-tehnicheskoj-podderzhki"
+  },
+  {
+   "query": "ии бот для продаж",
+   "position": 1,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/chat-bot-prodazh"
+  },
+  {
+   "query": "ии агент для whatsapp",
+   "position": 4,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/chat-bot-whatsapp/"
+  },
+  {
+   "query": "чат бот для маркетплейсов",
+   "position": 6,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/chat-bot-marketplaces"
+  },
+  {
+   "query": "автоответчик авито",
+   "position": 6,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/chat-bot-avito/"
+  },
+  {
+   "query": "интеграция чат бота с crm",
+   "position": 3,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/chat-bot-i-crm/"
+  },
+  {
+   "query": "ии агент для авито",
+   "position": 8,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/chat-bot-avito/"
+  },
+  {
+   "query": "ии агент для инстаграм",
+   "position": 12,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/chat-bot-instagram"
+  },
+  {
+   "query": "ии агент для озон",
+   "position": 16,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/chat-bot-ozon/"
+  },
+  {
+   "query": "бот для amocrm",
+   "position": 15,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/chat-bot-amocrm"
+  },
+  {
+   "query": "голосовой агент",
+   "position": 19,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://docs.suvvy.ai/ru/types-of-agents/golosovoi-agent"
+  },
+  {
+   "query": "ии менеджер по продажам",
+   "position": 49,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/vnedrenie-ii-v-prodazhi/"
+  },
+  {
+   "query": "голосовой ии агент",
+   "position": 31,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/ii-agent-na-telefonnoy-linii/"
+  },
+  {
+   "query": "заказать ии агента",
+   "position": 22,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/"
+  },
+  {
+   "query": "ии агент для битрикс24",
+   "position": 28,
+   "bucket": "work",
+   "prev": null,
+   "url": "https://suvvy.ai/blog/roboty-bitrix24-i-ii-agent/"
+  },
+  {
+   "query": "чат бот телеграм",
+   "position": null,
+   "bucket": "fix",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент поддержки",
+   "position": null,
+   "bucket": "fix",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент для телеграм",
+   "position": null,
+   "bucket": "fix",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии консультант для сайта",
+   "position": null,
+   "bucket": "fix",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии для поддержки клиентов",
+   "position": null,
+   "bucket": "fix",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "чат бот для записи клиентов",
+   "position": 36,
+   "bucket": "fix",
+   "prev": null,
+   "url": "https://suvvy.ai/chat-bot-yclients"
+  },
+  {
+   "query": "виртуальный менеджер по продажам",
+   "position": null,
+   "bucket": "fix",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии сотрудник",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии менеджер",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии для продаж",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии оператор",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агенты для бизнеса",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент для бизнеса",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "внедрение ии агентов",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии ассистент для бизнеса",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент продажи",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "нейросотрудник",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент под ключ",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии обзвон клиентов",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии агент для звонков",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "робот обзвон клиентов",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "автообзвон клиентов",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "голосовой робот для бизнеса",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "голосовой ии для бизнеса",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "ии для приема звонков",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "голосовой ассистент для бизнеса",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "чат бот для max",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "бот для мессенджера max",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "чат бот для сайта",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "чат бот для салона красоты",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "чат бот для интернет магазина",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
+  },
+  {
+   "query": "чат бот для клиники",
+   "position": null,
+   "bucket": "wait",
+   "prev": null,
+   "url": null
   }
  ]
 }
