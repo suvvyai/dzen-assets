@@ -1,0 +1,85 @@
+{
+ "checked_at": "2026-09-28",
+ "from": "2026-08-29",
+ "to": "2026-09-25",
+ "host": "suvvy.ai",
+ "rows": [
+  {
+   "query": "чат бот для авито",
+   "bucket": "work",
+   "position": 4.8,
+   "clicks": 2,
+   "impressions": 18
+  },
+  {
+   "query": "голосовой ии агент",
+   "bucket": "work",
+   "position": 5,
+   "clicks": 0,
+   "impressions": 1
+  },
+  {
+   "query": "чат бот авито",
+   "bucket": "work",
+   "position": 6.2,
+   "clicks": 0,
+   "impressions": 14
+  },
+  {
+   "query": "боты авито",
+   "bucket": "work",
+   "position": 6.5,
+   "clicks": 0,
+   "impressions": 2
+  },
+  {
+   "query": "авито бот",
+   "bucket": "work",
+   "position": 11.3,
+   "clicks": 0,
+   "impressions": 11
+  },
+  {
+   "query": "чат бот whatsapp",
+   "bucket": "work",
+   "position": 18.2,
+   "clicks": 0,
+   "impressions": 11
+  },
+  {
+   "query": "ии бот для продаж",
+   "bucket": "work",
+   "position": 23.5,
+   "clicks": 0,
+   "impressions": 4
+  },
+  {
+   "query": "автоответчик авито",
+   "bucket": "work",
+   "position": 40,
+   "clicks": 0,
+   "impressions": 1
+  },
+  {
+   "query": "купить чат бот",
+   "bucket": "work",
+   "position": 46.5,
+   "clicks": 0,
+   "impressions": 2
+  },
+  {
+   "query": "ии агент для авито",
+   "bucket": "work",
+   "position": 47.4,
+   "clicks": 0,
+   "impressions": 21
+  },
+  {
+   "query": "конструктор ботов вк",
+   "bucket": "work",
+   "position": 80.5,
+   "clicks": 0,
+   "impressions": 2
+  }
+ ]
+}
