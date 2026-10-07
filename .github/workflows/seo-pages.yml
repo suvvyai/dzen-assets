@@ -1,0 +1,30 @@
+# Ежедневный сбор показов/кликов/позиций по страницам suvvy.ai для SEO-раздела
+# маркетингового дашборда. Вебмастер отдаёт только ~14 дней — история копится
+# здесь, в seo/pages.json. Журнал изменений — seo/changes.json (ведёт агент).
+name: seo-pages
+on:
+  schedule:
+    - cron: '20 4 * * *'   # 07:20 МСК
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install google-auth requests
+      - name: collect
+        env:
+          YANDEX_WEBMASTER_TOKEN: ${{ secrets.YANDEX_WEBMASTER_TOKEN }}
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: python seo/collect_pages.py seo/pages.json seo/pages.json
+      - name: commit
+        run: |
+          git config user.name "seo-bot"
+          git config user.email "seo-bot@users.noreply.github.com"
+          git add seo/pages.json
+          git diff --cached --quiet || git commit -m "seo: pages $(date -u +%F)"
+          git push
